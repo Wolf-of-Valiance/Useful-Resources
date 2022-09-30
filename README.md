@@ -1,5 +1,6 @@
-# Practical Resources
-A collection of resources to enhance Ethical Hacking/Pentesting/Red Teaming and Blue Teaming-based skillset
+# A collection of resources to enhance Ethical Hacking/Pentesting/Red Teaming and Blue Teaming-based skillsets.
+
+**Capture-The-Flag:**
 
 https://tryhackme.com/
 
@@ -13,7 +14,7 @@ https://www.pentesteracademy.com/
 
 https://pentesterlab.com/
 
-#Cisco Networking _Academy_
+#Cisco Networking Academy
 
 https://www.netacad.com/courses/networking
 
