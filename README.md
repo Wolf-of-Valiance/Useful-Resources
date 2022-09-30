@@ -1,4 +1,4 @@
-# A collection of resources to enhance Ethical Hacking/Pentesting/Red Teaming and Blue Teaming-based skillsets.
+# _A collection of resources to enhance Ethical Hacking/Pentesting/Red Teaming and Blue Teaming-based skillsets._
 
 _Offensive & Defensive Security Training:_
 
