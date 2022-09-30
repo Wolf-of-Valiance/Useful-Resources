@@ -1,5 +1,5 @@
 # Practical Resources
-A collection of resources to enhance Ethical Hacking/Pentesting/Red Teaming and Blue Teaming-based skillsets.
+A collection of resources to enhance Ethical Hacking/Pentesting/Red Teaming and Blue Teaming-based skillset
 
 https://tryhackme.com/
 
