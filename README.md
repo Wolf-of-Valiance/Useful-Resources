@@ -10,11 +10,13 @@ https://www.hackthebox.com/
 
 https://www.rangeforce.com/
 
-https://www.pentesteracademy.com/
+_Offensive Security Training [ONLY]:_
 
 https://pentesterlab.com/
 
-_Defensive Security Training:_
+https://www.pentesteracademy.com/
+
+_Defensive Security Training [ONLY]:_
 
 https://blueteamlabs.online/
 
