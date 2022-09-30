@@ -13,7 +13,7 @@ https://www.pentesteracademy.com/
 
 https://pentesterlab.com/
 
-#Cisco Networking Academy
+Cisco Networking Academy
 
 https://www.netacad.com/courses/networking
 
