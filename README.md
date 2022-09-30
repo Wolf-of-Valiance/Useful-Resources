@@ -1,6 +1,6 @@
 # A collection of resources to enhance Ethical Hacking/Pentesting/Red Teaming and Blue Teaming-based skillsets.
 
-**Capture-The-Flag:**
+_Offensive & Defensive Security Training:_
 
 https://tryhackme.com/
 
@@ -14,7 +14,13 @@ https://www.pentesteracademy.com/
 
 https://pentesterlab.com/
 
-#Cisco Networking Academy
+_Defensive Security Training:_
+
+https://blueteamlabs.online/
+
+https://securityblue.team/
+
+_Cisco Networking Academy:_
 
 https://www.netacad.com/courses/networking
 
